@@ -1,1 +1,3 @@
-# moana
+# Landing Page - Moana
+
+Landing page criada junto ao reprograma em workshop.
